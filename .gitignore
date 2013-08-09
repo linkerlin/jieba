@@ -166,5 +166,6 @@ test/tmp/*
 
 #jython
 *.class
+.idea
 
 MANIFEST
